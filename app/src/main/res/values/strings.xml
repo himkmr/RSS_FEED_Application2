@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RSS_FEED_Application2</string>
+
+    <string name="body_header">decorating the Sky</string>
+    <string name="image_date">Tue, 14th October, 2015</string>
+    <string name="body_content">As NASA missions to Mars progress with science and
+        complex human exploration missions, spacecraft will require larger heat
+        shields to protect against the extreme heat of entering a planet\'s atmosphere and
+        decelerating at a safe altitude in the thin Martian atmosphere.
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
